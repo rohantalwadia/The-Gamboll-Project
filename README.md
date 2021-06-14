@@ -13,6 +13,6 @@ https://www.youtube.com/watch?v=4Ur6mXMIHmc<br>
 https://www.youtube.com/watch?v=lgEiJfIokgg<br>
 <br>
 Some Screenshots-<br>
-![Alt text](imges/1.jpg?raw=true)
+!(/images/1.jpg?raw=true)
 
 
