@@ -13,6 +13,6 @@ https://www.youtube.com/watch?v=4Ur6mXMIHmc<br>
 https://www.youtube.com/watch?v=lgEiJfIokgg<br>
 <br>
 Some Screenshots-<br>
-!(/images/1.jpg?raw=true)
+https://github.com/rohantalwadia/The-Gamboll-Project/blob/main/images/1.jpg
 
 
